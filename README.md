@@ -1,4 +1,4 @@
-# Digiloogika Leivalaud (DLLL)
+# Digiloogika leivalaud (DLLL)
 
 ## **Ülevaade**
 **Digiloogika Leivalaud (DLLL)** on õppevahend digitaalloogika skeemide koostamiseks. Seade võimaldab visuaalselt ja praktiliselt mõista digitaalloogika põhialuseid, kasutades erinevaid loogikaelemente nagu **2NOR, NOT, AND, OR jne**. 
@@ -43,7 +43,6 @@ DLLL on mõeldud kasutamiseks **elektroonika ja digitaalloogika kursustel** ning
 ---
 💡 **Kasulikud lingid**  
 🔗 [Digitaalloogika baasteadmised](https://en.wikipedia.org/wiki/Digital_logic)  
-🔗 [3.5 mm kaablite kasutamine](https://en.wikipedia.org/wiki/TRS_connector)  
-🔗 [GitHub projekti leht](https://github.com/your-repository-url)
+
 
 🚀 **Head eksperimenteerimist!**
