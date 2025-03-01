@@ -3,10 +3,12 @@
 ## **Ülevaade**
 **Digiloogika Leivalaud (DLLL)** on õppevahend digitaalloogika skeemide koostamiseks. Seade võimaldab visuaalselt ja praktiliselt mõista digitaalloogika põhialuseid, kasutades erinevaid loogikaelemente nagu **2NOR, NOT, AND, OR jne**. 
 
+<img src="images/DLLL.png" alt="Digiloogika leivalaua pilt" width="500"/>  
+
 ## **Omadused**
 ✔ **Modulaarne disain** – loogikaelemente sisaldavad klotsid saab lihtsalt vahetada.
 ✔ **Aukudega aluslaud** – mugav ja stabiilne paigutus erinevatele elementidele.
-✔ **3.5 mm patch kaablite ühendused** – kiire ja lihtne ühenduste loomine.
+✔ **3.5 mm patch ( [Eurorack patch](https://i0.wp.com/intellijel.com/wp-content/uploads/2023/04/cable-pack-2023-0.jpg?resize=544%2C408&ssl=1) ) kaablite ühendused** – kiire ja lihtne ühenduste loomine.
 ✔ **Õppevahend elektroonika ja digitaalloogika kursustele**.
 
 ## **Lähteülesande kirjeldus**
