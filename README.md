@@ -11,6 +11,8 @@
 ✔ **3.5 mm patch ( [Eurorack patch](https://i0.wp.com/intellijel.com/wp-content/uploads/2023/04/cable-pack-2023-0.jpg?resize=544%2C408&ssl=1) ) kaablite ühendused** – kiire ja lihtne ühenduste loomine.
 ✔ **Õppevahend elektroonika ja digitaalloogika kursustele**.
 
+Klotside toide ja loogika signaal peab liikuma läbi kahe soone. Kasutame toite reverseerimist: kui rõngas -, ots + => ON ja rõngas +, ots - => OFF
+
 ## **Lähteülesande kirjeldus**
 Projekti lähteülesanne on kirjeldatud failis **Dlll.docx**.
 
