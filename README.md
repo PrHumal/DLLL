@@ -1,7 +1,7 @@
 # Digiloogika leivalaud (DLLL)
 
 ## **Ülevaade**
-**Digiloogika Leivalaud (DLLL)** on õppevahend digitaalloogika skeemide koostamiseks. Seade võimaldab visuaalselt ja praktiliselt mõista digitaalloogika põhialuseid, kasutades erinevaid loogikaelemente nagu **NOR, NOT, AND, OR2, XOR4 jne**. 
+**Digiloogika Leivalaud (DLLL)** on õppevahend digitaalloogika skeemide koostamiseks. Seade võimaldab visuaalselt ja praktiliselt mõista digitaalloogika põhialuseid, kasutades erinevaid loogikaelemente nagu **NOR, INV, AND, OR2, XOR4 jne**. 
 
 <img src="images/DLLL.png" alt="Digiloogika leivalaua pilt" width="500"/>  
 
