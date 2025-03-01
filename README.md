@@ -54,6 +54,7 @@ DLLL on mõeldud kasutamiseks **elektroonika ja digitaalloogika kursustel** ning
 ---
 💡 **Kasulikud lingid**  
 🔗 [Digitaalloogika baasteadmised](https://en.wikipedia.org/wiki/Digital_logic)  
+🔗 [Elektroonikat õpetavad mänguasjad SnapCircuits](https://elenco.com/)
 
 
 🚀 **Head eksperimenteerimist!**
