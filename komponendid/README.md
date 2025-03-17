@@ -15,5 +15,5 @@ Eurorack patchid
 
 
 Väljundi juhtimise relee
-
-https://ee.farnell.com/panasonic-electric-works/tq2-5vdc/relay-signal-dpdt-30vdc-1a/dp/1175716
+[
+https://ee.farnell.com/panasonic/tq2sa-5v/relay-signal-dpdt-30vdc-2a/dp/1124054
