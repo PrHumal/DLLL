@@ -1,0 +1,2 @@
+* Approximate SPICE Model for TJ-S5050UG2W5TLC6B-A5 (White LED)
+.MODEL LED_WHITE D(IS=5u RS=20 N=1.8 CJO=10p BV=5)
