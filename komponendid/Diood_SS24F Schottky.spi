@@ -1,0 +1,2 @@
+* SS24F Schottky Diode SPICE Model (Approximation)
+.MODEL SS24F D(IS=1.5u RS=0.02 N=1.1 CJO=110p BV=40 IBV=0.2mA TT=10n)
