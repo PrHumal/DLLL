@@ -1,0 +1,20 @@
+* G6K-2F-Y-TR DC5V Approximate SPICE Model
+.SUBCKT G6K_RELAY COIL+ COIL- NO NC COM
+
+* Relay Coil Model
+Rcoil COIL+ COIL- 178       ; Coil Resistance (178Ω)
+Lcoil COIL+ COIL- 1mH       ; Approximate Inductance
+D1 COIL+ COIL- DREL         ; Flyback Diode to protect circuit
+
+* Switching Model
+S1 COM NO VCOIL 0 SW_MODEL  ; NO Contact (Normally Open)
+S2 COM NC VCOIL 0 SW_MODEL  ; NC Contact (Normally Closed)
+VCOIL COIL+ 0 DC 5V         ; Coil Drive Voltage Source
+
+* Switch Model Parameters
+.MODEL SW_MODEL SW(Ron=0.05 Roff=1Meg Vt=3.5 Vh=0.5)
+
+* Flyback Diode Model
+.MODEL DREL D(IS=1pA BV=50)
+
+.ENDS
