@@ -17,3 +17,8 @@ Eurorack patchid
 Väljundi juhtimise relee
 
 https://ee.farnell.com/panasonic/tq2sa-5v/relay-signal-dpdt-30vdc-2a/dp/1124054
+
+
+IM42GR.  - Eelmine relee oli otsas, kui JLCPCB-s oma parte valite siis vahetage relee selle vastu
+Signal Relay, 4.5 VDC, DPDT, 2 A, IM, Surface Mount, Latching Single Coil
+[1922668.pdf](https://github.com/user-attachments/files/20204832/1922668.pdf)
