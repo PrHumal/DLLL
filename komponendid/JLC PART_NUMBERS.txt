@@ -2,3 +2,5 @@ mosfet IRF7307 - C5346816
 relee G6K-2F-Y-TR DC5V - C47190
 led VLDS1235G - C499579
 diood SS24F - C18199202
+N kanaliga mosfet - C8490
+P kanaliga mosfet - C504057
